@@ -10,3 +10,5 @@
 * git push origin master
 * git branch
 * git checkout - zmiana gałęzi
+* git merge nazwa gałęzi
+* git log --decorate --all --graph
