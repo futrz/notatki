@@ -8,3 +8,4 @@
 * git add .
 * git commit -m"opis"
 * git push origin master
+* git merge nazwa gałęzi
